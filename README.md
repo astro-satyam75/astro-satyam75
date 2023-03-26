@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=astro-satyam75.astrosatyam-75??style=for-the-badge&logo=appveyor"></a>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=astro-satyam75.astro-satyam75??style=for-the-badge&logo=appveyor"></a>
 </p>
 
 
