@@ -36,6 +36,9 @@
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Machine%20Learning-14B03D?style=for-the-badge&logo=machine-learning&logoColor=white" />
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+
 
 </p>
 
